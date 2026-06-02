@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "banana-claude-marketplace": {
+      "source": {
+        "source": "directory",
+        "path": "./banana-claude"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "banana-claude@banana-claude-marketplace": true
+  }
+}
